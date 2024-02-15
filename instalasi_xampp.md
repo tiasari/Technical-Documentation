@@ -1,0 +1,3 @@
+# Panduan cara Instalasi XAMPP
+1. Anda dapat mengunduh XAMPP dengan klik  [Download XAMPP](https://www.apachefriends.org/download.html), setelah berada di halaman download klik tombol pada versi yang Anda inginkan. ![Download XAMPP](https://github.com/tiasari/image/blob/main/download%20xampp.png)
+2.File XAMPP berhasil di download, double klik pada file XAMPP lalu tampil setup XAMPP klik tombol next ![setup](https://github.com/tiasari/image/blob/main/setup-xampp.png)
