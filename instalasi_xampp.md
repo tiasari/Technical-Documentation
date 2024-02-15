@@ -8,8 +8,8 @@
 7. Instalasi XAMPP selesai, klik tombol Finish. ![completed](https://github.com/tiasari/image/blob/main/completed%20install.png)
 
 # Menjalankan XAMPP pada Windows
-Setelah berhasil instalasi XAMPP pada windows berikut cara menjalankan XAMPP
-1. Buka Aplikasi XAMPP. ![startxampp]([https://](https://github.com/tiasari/image/blob/main/xampp-start.png))
+Setelah berhasil instalasi XAMPP pada windows berikut cara menjalankan XAMPP :
+1. Buka Aplikasi XAMPP. ![startxampp](https://github.com/tiasari/image/blob/main/xampp-start.png)
 2. Pada kolom Action klik tombol Start, tombol berubah menjadi Stop berarti aplikasi XAMPP sudah aktif. ![startxampp](https://github.com/tiasari/image/blob/main/xampp-start2.png)
 3. Buka browser pada *adress bar* masukan http://localhost 
 4. Tampil halaman utama antarmuka pengguna pada website XAMPP, instalasi berhasil. ![browser](https://github.com/tiasari/image/blob/main/xamppdashboard.png)
